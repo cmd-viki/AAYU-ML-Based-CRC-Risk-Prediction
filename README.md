@@ -6,24 +6,34 @@ AAYU is a **machine-learning**–based toolkit for colorectal cancer (CRC) risk 
 
 - `test.py` / `test_4.py` / `test_5.py`  
   Streamlit apps for CRC risk prediction using a trained autoencoder + KMeans clustering model and rule‑based risk labels, with MongoDB logging and CSV export.
+  
 - `crc_risk.py`  
-  Streamlit app for CRC cluster interpretation and relabeling on uploaded patient cohorts, including autoencoder training, KMeans clustering, RandomForest feature importance, cluster profiling, and SHAP plots.[1]
+  Streamlit app for CRC cluster interpretation and relabeling on uploaded patient cohorts, including autoencoder training, KMeans clustering, RandomForest feature importance, cluster profiling, and SHAP plots.
+  
 - `crc_risk_metrics.py`  
   Offline script to evaluate clustering quality (Silhouette, Calinski‑Harabasz, Davies‑Bouldin, Adjusted Rand Index) and compute RandomForest feature importance on the autoencoder latent space.
+  
 - `model1.py`, `model5.py`, `test_3.py`  
   Additional model/experiment scripts (autoencoder + clustering + classification) for CRC risk modeling and ablation/testing.
+  
 - `PreProcess_modify2.py`  
   Preprocessing utilities to clean, encode and scale clinical + genomic features prior to autoencoder/clustering.
+  
 - `Home.py`, `About.py`  
   Streamlit pages for app landing/about content integrated into the AAYU UI.
+  
 - `CRC_Train_Set.xlsx`, `CRC_Validation_Set.xlsx`, `CRC_Test_Set.xlsx`  
   Structured CRC patient cohorts used for model training, validation and testing.
+  
 - `CBioPortal_DATA_no_missing.xlsx`, `CBioPortal_DATA_ready_for_autoencoder_FINAL.xlsx`  
   CBioPortal‑derived CRC datasets (cleaned and no‑missing) used for autoencoder training and clustering experiments.
+  
 - `all_patients_crc_results.csv`  
   Aggregated predictions saved from the Streamlit risk calculator for all processed patients.
+  
 - `patient_custom_risk_labels.csv`  
   Custom, human‑interpretable labels mapped to discovered CRC clusters.
+  
 - `crc_risk_clustering_metrics.csv`, `crc_risk_feature_importance.csv`  
   Saved clustering quality metrics and feature importance results from `crc_risk_metrics.py`.
 
