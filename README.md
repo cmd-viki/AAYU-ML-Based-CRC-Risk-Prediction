@@ -1,6 +1,6 @@
 # AAYU – Colorectal Cancer (CRC) Risk Stratification Suite
 
-AAYU is a **machine-learning**–based toolkit for colorectal cancer (CRC) risk stratification, combining autoencoders, clustering, and explainable models with interactive Streamlit apps for clinicians and researchers.
+AAYU is a **machine-learning**–based toolkit for colorectal cancer (CRC) risk stratification, combining autoencoders, clustering, and explainable models with interactive Streamlit apps for clinicians and researchers.This is used for Healthy non cancerous people.
 
 ## Repository structure
 
