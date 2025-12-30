@@ -160,3 +160,6 @@ The patient‑level apps expect:
 
 - **Genomic (binary)**:  
   - `KRAS_MUT`, `TP53_MUT`, `APC_MUT`, `SDC2_MUT`, `MLH1_MUT`, `MSH2_MUT`, `MSH6_MUT`, `PMS2_MUT`, `TIMP1_MUT` (0 = no alteration, 1 = mutation/alteration).
+
+##Usage
+Run`test_5.py` and `model5.py`to execute.
