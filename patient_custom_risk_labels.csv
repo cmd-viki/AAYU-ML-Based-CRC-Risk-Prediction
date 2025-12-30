@@ -1,0 +1,942 @@
+patient_id,custom_risk_group
+0,High Oncogenic Risk (Multi-gene)
+1,Elevated Genetic Risk
+2,High Oncogenic Risk (Multi-gene)
+3,Elevated Genetic Risk
+4,Elevated Genetic Risk
+5,Elevated Genetic Risk
+6,Elevated Genetic Risk
+7,Elevated Genetic Risk
+8,High Oncogenic Risk (Multi-gene)
+9,High Oncogenic Risk (Multi-gene)
+10,High Oncogenic Risk (Multi-gene)
+11,Elevated Genetic Risk
+12,Elevated Genetic Risk
+13,Elevated Genetic Risk
+14,Elevated Genetic Risk
+15,Elevated Genetic Risk
+16,Elevated Genetic Risk
+17,Elevated Genetic Risk
+18,High Oncogenic Risk (Multi-gene)
+19,Elevated Genetic Risk
+20,High Oncogenic Risk (Multi-gene)
+21,High Oncogenic Risk (Multi-gene)
+22,High Oncogenic Risk (Multi-gene)
+23,Elevated Genetic Risk
+24,High Oncogenic Risk (Multi-gene)
+25,Elevated Genetic Risk
+26,Elevated Genetic Risk
+27,Elevated Genetic Risk
+28,Elevated Genetic Risk
+29,Elevated Genetic Risk
+30,Elevated Genetic Risk
+31,High Oncogenic Risk (Multi-gene)
+32,Elevated Genetic Risk
+33,High Oncogenic Risk (Multi-gene)
+34,Elevated Genetic Risk
+35,High Oncogenic Risk (Multi-gene)
+36,High Oncogenic Risk (Multi-gene)
+37,Elevated Genetic Risk
+38,Elevated Genetic Risk
+39,High Oncogenic Risk (Multi-gene)
+40,High Oncogenic Risk (Multi-gene)
+41,Elevated Genetic Risk
+42,High Oncogenic Risk (Multi-gene)
+43,High Oncogenic Risk (Multi-gene)
+44,High Oncogenic Risk (Multi-gene)
+45,Elevated Genetic Risk
+46,High Oncogenic Risk (Multi-gene)
+47,High Oncogenic Risk (Multi-gene)
+48,High Oncogenic Risk (Multi-gene)
+49,Elevated Genetic Risk
+50,High Oncogenic Risk (Multi-gene)
+51,Elevated Genetic Risk
+52,Elevated Genetic Risk
+53,Elevated Genetic Risk
+54,High Oncogenic Risk (Multi-gene)
+55,Elevated Genetic Risk
+56,Elevated Genetic Risk
+57,Elevated Genetic Risk
+58,High Oncogenic Risk (Multi-gene)
+59,High Oncogenic Risk (Multi-gene)
+60,Elevated Genetic Risk
+61,Elevated Genetic Risk
+62,Elevated Genetic Risk
+63,Elevated Genetic Risk
+64,Elevated Genetic Risk
+65,High Oncogenic Risk (Multi-gene)
+66,Elevated Genetic Risk
+67,High Oncogenic Risk (Multi-gene)
+68,Elevated Genetic Risk
+69,Elevated Genetic Risk
+70,High Oncogenic Risk (Multi-gene)
+71,Elevated Genetic Risk
+72,Elevated Genetic Risk
+73,Elevated Genetic Risk
+74,Elevated Genetic Risk
+75,Elevated Genetic Risk
+76,Elevated Genetic Risk
+77,Elevated Genetic Risk
+78,Elevated Genetic Risk
+79,Elevated Genetic Risk
+80,Elevated Genetic Risk
+81,High Oncogenic Risk (Multi-gene)
+82,High Oncogenic Risk (Multi-gene)
+83,Elevated Genetic Risk
+84,High Oncogenic Risk (Multi-gene)
+85,Elevated Genetic Risk
+86,High Oncogenic Risk (Multi-gene)
+87,Elevated Genetic Risk
+88,High Oncogenic Risk (Multi-gene)
+89,Elevated Genetic Risk
+90,High Oncogenic Risk (Multi-gene)
+91,Elevated Genetic Risk
+92,Elevated Genetic Risk
+93,High Oncogenic Risk (Multi-gene)
+94,Elevated Genetic Risk
+95,Elevated Genetic Risk
+96,Elevated Genetic Risk
+97,Elevated Genetic Risk
+98,Elevated Genetic Risk
+99,Elevated Genetic Risk
+100,Elevated Genetic Risk
+101,Elevated Genetic Risk
+102,Elevated Genetic Risk
+103,Elevated Genetic Risk
+104,High Oncogenic Risk (Multi-gene)
+105,Elevated Genetic Risk
+106,Elevated Genetic Risk
+107,Elevated Genetic Risk
+108,Elevated Genetic Risk
+109,High Oncogenic Risk (Multi-gene)
+110,High Oncogenic Risk (Multi-gene)
+111,High Oncogenic Risk (Multi-gene)
+112,High Oncogenic Risk (Multi-gene)
+113,High Oncogenic Risk (Multi-gene)
+114,High Oncogenic Risk (Multi-gene)
+115,High Oncogenic Risk (Multi-gene)
+116,High Oncogenic Risk (Multi-gene)
+117,Elevated Genetic Risk
+118,High Oncogenic Risk (Multi-gene)
+119,High Oncogenic Risk (Multi-gene)
+120,Elevated Genetic Risk
+121,Elevated Genetic Risk
+122,Elevated Genetic Risk
+123,Elevated Genetic Risk
+124,Elevated Genetic Risk
+125,High Oncogenic Risk (Multi-gene)
+126,Elevated Genetic Risk
+127,Elevated Genetic Risk
+128,Elevated Genetic Risk
+129,Elevated Genetic Risk
+130,High Oncogenic Risk (Multi-gene)
+131,Elevated Genetic Risk
+132,Elevated Genetic Risk
+133,High Oncogenic Risk (Multi-gene)
+134,Elevated Genetic Risk
+135,Elevated Genetic Risk
+136,Elevated Genetic Risk
+137,Elevated Genetic Risk
+138,High Oncogenic Risk (Multi-gene)
+139,Elevated Genetic Risk
+140,High Oncogenic Risk (Multi-gene)
+141,Elevated Genetic Risk
+142,Elevated Genetic Risk
+143,High Oncogenic Risk (Multi-gene)
+144,Elevated Genetic Risk
+145,Elevated Genetic Risk
+146,Elevated Genetic Risk
+147,High Oncogenic Risk (Multi-gene)
+148,High Oncogenic Risk (Multi-gene)
+149,High Oncogenic Risk (Multi-gene)
+150,High Oncogenic Risk (Multi-gene)
+151,High Oncogenic Risk (Multi-gene)
+152,Elevated Genetic Risk
+153,High Oncogenic Risk (Multi-gene)
+154,Elevated Genetic Risk
+155,Elevated Genetic Risk
+156,Elevated Genetic Risk
+157,Elevated Genetic Risk
+158,Elevated Genetic Risk
+159,Elevated Genetic Risk
+160,Elevated Genetic Risk
+161,Elevated Genetic Risk
+162,Elevated Genetic Risk
+163,High Oncogenic Risk (Multi-gene)
+164,Elevated Genetic Risk
+165,Elevated Genetic Risk
+166,High Oncogenic Risk (Multi-gene)
+167,Elevated Genetic Risk
+168,Elevated Genetic Risk
+169,Elevated Genetic Risk
+170,High Oncogenic Risk (Multi-gene)
+171,Elevated Genetic Risk
+172,High Oncogenic Risk (Multi-gene)
+173,Elevated Genetic Risk
+174,High Oncogenic Risk (Multi-gene)
+175,High Oncogenic Risk (Multi-gene)
+176,Elevated Genetic Risk
+177,Elevated Genetic Risk
+178,Elevated Genetic Risk
+179,Elevated Genetic Risk
+180,High Oncogenic Risk (Multi-gene)
+181,Elevated Genetic Risk
+182,Elevated Genetic Risk
+183,High Oncogenic Risk (Multi-gene)
+184,Elevated Genetic Risk
+185,High Oncogenic Risk (Multi-gene)
+186,Elevated Genetic Risk
+187,Elevated Genetic Risk
+188,High Oncogenic Risk (Multi-gene)
+189,High Oncogenic Risk (Multi-gene)
+190,High Oncogenic Risk (Multi-gene)
+191,Elevated Genetic Risk
+192,High Oncogenic Risk (Multi-gene)
+193,High Oncogenic Risk (Multi-gene)
+194,High Oncogenic Risk (Multi-gene)
+195,High Oncogenic Risk (Multi-gene)
+196,High Oncogenic Risk (Multi-gene)
+197,Elevated Genetic Risk
+198,Elevated Genetic Risk
+199,High Oncogenic Risk (Multi-gene)
+200,Elevated Genetic Risk
+201,Elevated Genetic Risk
+202,Elevated Genetic Risk
+203,Elevated Genetic Risk
+204,Elevated Genetic Risk
+205,Elevated Genetic Risk
+206,Elevated Genetic Risk
+207,Elevated Genetic Risk
+208,Elevated Genetic Risk
+209,Elevated Genetic Risk
+210,Elevated Genetic Risk
+211,High Oncogenic Risk (Multi-gene)
+212,Elevated Genetic Risk
+213,Elevated Genetic Risk
+214,Elevated Genetic Risk
+215,Elevated Genetic Risk
+216,High Oncogenic Risk (Multi-gene)
+217,Elevated Genetic Risk
+218,Elevated Genetic Risk
+219,Elevated Genetic Risk
+220,Elevated Genetic Risk
+221,High Oncogenic Risk (Multi-gene)
+222,Elevated Genetic Risk
+223,Elevated Genetic Risk
+224,High Oncogenic Risk (Multi-gene)
+225,High Oncogenic Risk (Multi-gene)
+226,High Oncogenic Risk (Multi-gene)
+227,Elevated Genetic Risk
+228,Elevated Genetic Risk
+229,Elevated Genetic Risk
+230,Elevated Genetic Risk
+231,Elevated Genetic Risk
+232,High Oncogenic Risk (Multi-gene)
+233,High Oncogenic Risk (Multi-gene)
+234,Elevated Genetic Risk
+235,High Oncogenic Risk (Multi-gene)
+236,High Oncogenic Risk (Multi-gene)
+237,Elevated Genetic Risk
+238,Elevated Genetic Risk
+239,High Oncogenic Risk (Multi-gene)
+240,High Oncogenic Risk (Multi-gene)
+241,Elevated Genetic Risk
+242,Elevated Genetic Risk
+243,High Oncogenic Risk (Multi-gene)
+244,Elevated Genetic Risk
+245,Elevated Genetic Risk
+246,High Oncogenic Risk (Multi-gene)
+247,Elevated Genetic Risk
+248,High Oncogenic Risk (Multi-gene)
+249,High Oncogenic Risk (Multi-gene)
+250,Elevated Genetic Risk
+251,Elevated Genetic Risk
+252,Elevated Genetic Risk
+253,High Oncogenic Risk (Multi-gene)
+254,High Oncogenic Risk (Multi-gene)
+255,High Oncogenic Risk (Multi-gene)
+256,Elevated Genetic Risk
+257,Elevated Genetic Risk
+258,Elevated Genetic Risk
+259,Elevated Genetic Risk
+260,Elevated Genetic Risk
+261,High Oncogenic Risk (Multi-gene)
+262,Elevated Genetic Risk
+263,High Oncogenic Risk (Multi-gene)
+264,Elevated Genetic Risk
+265,Elevated Genetic Risk
+266,High Oncogenic Risk (Multi-gene)
+267,Elevated Genetic Risk
+268,High Oncogenic Risk (Multi-gene)
+269,Elevated Genetic Risk
+270,Elevated Genetic Risk
+271,Elevated Genetic Risk
+272,Elevated Genetic Risk
+273,High Oncogenic Risk (Multi-gene)
+274,Elevated Genetic Risk
+275,High Oncogenic Risk (Multi-gene)
+276,High Oncogenic Risk (Multi-gene)
+277,High Oncogenic Risk (Multi-gene)
+278,High Oncogenic Risk (Multi-gene)
+279,Elevated Genetic Risk
+280,Elevated Genetic Risk
+281,High Oncogenic Risk (Multi-gene)
+282,High Oncogenic Risk (Multi-gene)
+283,Elevated Genetic Risk
+284,Elevated Genetic Risk
+285,High Oncogenic Risk (Multi-gene)
+286,Elevated Genetic Risk
+287,Elevated Genetic Risk
+288,High Oncogenic Risk (Multi-gene)
+289,High Oncogenic Risk (Multi-gene)
+290,Elevated Genetic Risk
+291,Elevated Genetic Risk
+292,High Oncogenic Risk (Multi-gene)
+293,High Oncogenic Risk (Multi-gene)
+294,Elevated Genetic Risk
+295,Elevated Genetic Risk
+296,High Oncogenic Risk (Multi-gene)
+297,High Oncogenic Risk (Multi-gene)
+298,Elevated Genetic Risk
+299,Elevated Genetic Risk
+300,Elevated Genetic Risk
+301,High Oncogenic Risk (Multi-gene)
+302,Elevated Genetic Risk
+303,Elevated Genetic Risk
+304,Elevated Genetic Risk
+305,Elevated Genetic Risk
+306,Elevated Genetic Risk
+307,Elevated Genetic Risk
+308,Elevated Genetic Risk
+309,High Oncogenic Risk (Multi-gene)
+310,High Oncogenic Risk (Multi-gene)
+311,Elevated Genetic Risk
+312,Elevated Genetic Risk
+313,Elevated Genetic Risk
+314,Elevated Genetic Risk
+315,Elevated Genetic Risk
+316,Elevated Genetic Risk
+317,High Oncogenic Risk (Multi-gene)
+318,Elevated Genetic Risk
+319,High Oncogenic Risk (Multi-gene)
+320,Elevated Genetic Risk
+321,Elevated Genetic Risk
+322,High Oncogenic Risk (Multi-gene)
+323,Elevated Genetic Risk
+324,High Oncogenic Risk (Multi-gene)
+325,High Oncogenic Risk (Multi-gene)
+326,High Oncogenic Risk (Multi-gene)
+327,High Oncogenic Risk (Multi-gene)
+328,High Oncogenic Risk (Multi-gene)
+329,Elevated Genetic Risk
+330,Elevated Genetic Risk
+331,High Oncogenic Risk (Multi-gene)
+332,Elevated Genetic Risk
+333,High Oncogenic Risk (Multi-gene)
+334,Elevated Genetic Risk
+335,High Oncogenic Risk (Multi-gene)
+336,Elevated Genetic Risk
+337,High Oncogenic Risk (Multi-gene)
+338,Elevated Genetic Risk
+339,High Oncogenic Risk (Multi-gene)
+340,Elevated Genetic Risk
+341,Elevated Genetic Risk
+342,Elevated Genetic Risk
+343,High Oncogenic Risk (Multi-gene)
+344,High Oncogenic Risk (Multi-gene)
+345,High Oncogenic Risk (Multi-gene)
+346,Elevated Genetic Risk
+347,High Oncogenic Risk (Multi-gene)
+348,High Oncogenic Risk (Multi-gene)
+349,High Oncogenic Risk (Multi-gene)
+350,Elevated Genetic Risk
+351,Elevated Genetic Risk
+352,Elevated Genetic Risk
+353,Elevated Genetic Risk
+354,Elevated Genetic Risk
+355,Elevated Genetic Risk
+356,Elevated Genetic Risk
+357,Elevated Genetic Risk
+358,Elevated Genetic Risk
+359,Elevated Genetic Risk
+360,Elevated Genetic Risk
+361,Elevated Genetic Risk
+362,High Oncogenic Risk (Multi-gene)
+363,Elevated Genetic Risk
+364,Elevated Genetic Risk
+365,Elevated Genetic Risk
+366,High Oncogenic Risk (Multi-gene)
+367,High Oncogenic Risk (Multi-gene)
+368,Elevated Genetic Risk
+369,Elevated Genetic Risk
+370,Elevated Genetic Risk
+371,High Oncogenic Risk (Multi-gene)
+372,High Oncogenic Risk (Multi-gene)
+373,High Oncogenic Risk (Multi-gene)
+374,Elevated Genetic Risk
+375,Elevated Genetic Risk
+376,Elevated Genetic Risk
+377,High Oncogenic Risk (Multi-gene)
+378,High Oncogenic Risk (Multi-gene)
+379,Elevated Genetic Risk
+380,Elevated Genetic Risk
+381,Elevated Genetic Risk
+382,Elevated Genetic Risk
+383,Elevated Genetic Risk
+384,Elevated Genetic Risk
+385,Elevated Genetic Risk
+386,Elevated Genetic Risk
+387,Elevated Genetic Risk
+388,High Oncogenic Risk (Multi-gene)
+389,High Oncogenic Risk (Multi-gene)
+390,Elevated Genetic Risk
+391,Elevated Genetic Risk
+392,Elevated Genetic Risk
+393,High Oncogenic Risk (Multi-gene)
+394,Elevated Genetic Risk
+395,Elevated Genetic Risk
+396,Elevated Genetic Risk
+397,Elevated Genetic Risk
+398,High Oncogenic Risk (Multi-gene)
+399,Elevated Genetic Risk
+400,Elevated Genetic Risk
+401,High Oncogenic Risk (Multi-gene)
+402,Elevated Genetic Risk
+403,Elevated Genetic Risk
+404,Elevated Genetic Risk
+405,Elevated Genetic Risk
+406,Elevated Genetic Risk
+407,Elevated Genetic Risk
+408,High Oncogenic Risk (Multi-gene)
+409,Elevated Genetic Risk
+410,High Oncogenic Risk (Multi-gene)
+411,Elevated Genetic Risk
+412,High Oncogenic Risk (Multi-gene)
+413,High Oncogenic Risk (Multi-gene)
+414,High Oncogenic Risk (Multi-gene)
+415,Elevated Genetic Risk
+416,Elevated Genetic Risk
+417,Elevated Genetic Risk
+418,Elevated Genetic Risk
+419,Elevated Genetic Risk
+420,High Oncogenic Risk (Multi-gene)
+421,Elevated Genetic Risk
+422,High Oncogenic Risk (Multi-gene)
+423,Elevated Genetic Risk
+424,High Oncogenic Risk (Multi-gene)
+425,Elevated Genetic Risk
+426,Elevated Genetic Risk
+427,Elevated Genetic Risk
+428,High Oncogenic Risk (Multi-gene)
+429,Elevated Genetic Risk
+430,Elevated Genetic Risk
+431,High Oncogenic Risk (Multi-gene)
+432,Elevated Genetic Risk
+433,Elevated Genetic Risk
+434,High Oncogenic Risk (Multi-gene)
+435,Elevated Genetic Risk
+436,Elevated Genetic Risk
+437,Elevated Genetic Risk
+438,Elevated Genetic Risk
+439,Elevated Genetic Risk
+440,Elevated Genetic Risk
+441,Elevated Genetic Risk
+442,Elevated Genetic Risk
+443,High Oncogenic Risk (Multi-gene)
+444,Elevated Genetic Risk
+445,Elevated Genetic Risk
+446,Elevated Genetic Risk
+447,High Oncogenic Risk (Multi-gene)
+448,High Oncogenic Risk (Multi-gene)
+449,High Oncogenic Risk (Multi-gene)
+450,Elevated Genetic Risk
+451,Elevated Genetic Risk
+452,Elevated Genetic Risk
+453,Elevated Genetic Risk
+454,High Oncogenic Risk (Multi-gene)
+455,Elevated Genetic Risk
+456,Elevated Genetic Risk
+457,Elevated Genetic Risk
+458,Elevated Genetic Risk
+459,High Oncogenic Risk (Multi-gene)
+460,High Oncogenic Risk (Multi-gene)
+461,Elevated Genetic Risk
+462,Elevated Genetic Risk
+463,Elevated Genetic Risk
+464,Elevated Genetic Risk
+465,Elevated Genetic Risk
+466,High Oncogenic Risk (Multi-gene)
+467,High Oncogenic Risk (Multi-gene)
+468,Elevated Genetic Risk
+469,Elevated Genetic Risk
+470,Elevated Genetic Risk
+471,Elevated Genetic Risk
+472,Elevated Genetic Risk
+473,Elevated Genetic Risk
+474,High Oncogenic Risk (Multi-gene)
+475,Elevated Genetic Risk
+476,Elevated Genetic Risk
+477,Elevated Genetic Risk
+478,Elevated Genetic Risk
+479,High Oncogenic Risk (Multi-gene)
+480,High Oncogenic Risk (Multi-gene)
+481,High Oncogenic Risk (Multi-gene)
+482,Elevated Genetic Risk
+483,Elevated Genetic Risk
+484,Elevated Genetic Risk
+485,Elevated Genetic Risk
+486,High Oncogenic Risk (Multi-gene)
+487,Elevated Genetic Risk
+488,Elevated Genetic Risk
+489,High Oncogenic Risk (Multi-gene)
+490,High Oncogenic Risk (Multi-gene)
+491,Elevated Genetic Risk
+492,High Oncogenic Risk (Multi-gene)
+493,Elevated Genetic Risk
+494,High Oncogenic Risk (Multi-gene)
+495,Elevated Genetic Risk
+496,Elevated Genetic Risk
+497,Elevated Genetic Risk
+498,High Oncogenic Risk (Multi-gene)
+499,High Oncogenic Risk (Multi-gene)
+500,Elevated Genetic Risk
+501,Elevated Genetic Risk
+502,Elevated Genetic Risk
+503,Elevated Genetic Risk
+504,Elevated Genetic Risk
+505,High Oncogenic Risk (Multi-gene)
+506,Elevated Genetic Risk
+507,High Oncogenic Risk (Multi-gene)
+508,Elevated Genetic Risk
+509,High Oncogenic Risk (Multi-gene)
+510,Elevated Genetic Risk
+511,High Oncogenic Risk (Multi-gene)
+512,High Oncogenic Risk (Multi-gene)
+513,Elevated Genetic Risk
+514,High Oncogenic Risk (Multi-gene)
+515,Elevated Genetic Risk
+516,Elevated Genetic Risk
+517,Elevated Genetic Risk
+518,High Oncogenic Risk (Multi-gene)
+519,Elevated Genetic Risk
+520,Elevated Genetic Risk
+521,Elevated Genetic Risk
+522,High Oncogenic Risk (Multi-gene)
+523,High Oncogenic Risk (Multi-gene)
+524,Elevated Genetic Risk
+525,Elevated Genetic Risk
+526,High Oncogenic Risk (Multi-gene)
+527,Elevated Genetic Risk
+528,High Oncogenic Risk (Multi-gene)
+529,Elevated Genetic Risk
+530,Elevated Genetic Risk
+531,Elevated Genetic Risk
+532,Elevated Genetic Risk
+533,Elevated Genetic Risk
+534,Elevated Genetic Risk
+535,Elevated Genetic Risk
+536,Elevated Genetic Risk
+537,Elevated Genetic Risk
+538,High Oncogenic Risk (Multi-gene)
+539,Elevated Genetic Risk
+540,Elevated Genetic Risk
+541,Elevated Genetic Risk
+542,Elevated Genetic Risk
+543,High Oncogenic Risk (Multi-gene)
+544,Elevated Genetic Risk
+545,Elevated Genetic Risk
+546,High Oncogenic Risk (Multi-gene)
+547,Elevated Genetic Risk
+548,Elevated Genetic Risk
+549,High Oncogenic Risk (Multi-gene)
+550,High Oncogenic Risk (Multi-gene)
+551,Elevated Genetic Risk
+552,High Oncogenic Risk (Multi-gene)
+553,Elevated Genetic Risk
+554,Elevated Genetic Risk
+555,High Oncogenic Risk (Multi-gene)
+556,Elevated Genetic Risk
+557,High Oncogenic Risk (Multi-gene)
+558,Elevated Genetic Risk
+559,Elevated Genetic Risk
+560,Elevated Genetic Risk
+561,Elevated Genetic Risk
+562,Elevated Genetic Risk
+563,High Oncogenic Risk (Multi-gene)
+564,Elevated Genetic Risk
+565,High Oncogenic Risk (Multi-gene)
+566,High Oncogenic Risk (Multi-gene)
+567,High Oncogenic Risk (Multi-gene)
+568,Elevated Genetic Risk
+569,Elevated Genetic Risk
+570,Elevated Genetic Risk
+571,Elevated Genetic Risk
+572,Elevated Genetic Risk
+573,Elevated Genetic Risk
+574,Elevated Genetic Risk
+575,Elevated Genetic Risk
+576,Elevated Genetic Risk
+577,High Oncogenic Risk (Multi-gene)
+578,Elevated Genetic Risk
+579,Elevated Genetic Risk
+580,Elevated Genetic Risk
+581,High Oncogenic Risk (Multi-gene)
+582,High Oncogenic Risk (Multi-gene)
+583,Elevated Genetic Risk
+584,Elevated Genetic Risk
+585,Elevated Genetic Risk
+586,Elevated Genetic Risk
+587,High Oncogenic Risk (Multi-gene)
+588,Elevated Genetic Risk
+589,Elevated Genetic Risk
+590,High Oncogenic Risk (Multi-gene)
+591,High Oncogenic Risk (Multi-gene)
+592,High Oncogenic Risk (Multi-gene)
+593,Elevated Genetic Risk
+594,Elevated Genetic Risk
+595,Elevated Genetic Risk
+596,High Oncogenic Risk (Multi-gene)
+597,Elevated Genetic Risk
+598,High Oncogenic Risk (Multi-gene)
+599,Elevated Genetic Risk
+600,Elevated Genetic Risk
+601,High Oncogenic Risk (Multi-gene)
+602,Elevated Genetic Risk
+603,High Oncogenic Risk (Multi-gene)
+604,Elevated Genetic Risk
+605,Elevated Genetic Risk
+606,Elevated Genetic Risk
+607,High Oncogenic Risk (Multi-gene)
+608,Elevated Genetic Risk
+609,High Oncogenic Risk (Multi-gene)
+610,Elevated Genetic Risk
+611,Elevated Genetic Risk
+612,Elevated Genetic Risk
+613,Elevated Genetic Risk
+614,Elevated Genetic Risk
+615,High Oncogenic Risk (Multi-gene)
+616,Elevated Genetic Risk
+617,Elevated Genetic Risk
+618,Elevated Genetic Risk
+619,Elevated Genetic Risk
+620,Elevated Genetic Risk
+621,Elevated Genetic Risk
+622,Elevated Genetic Risk
+623,High Oncogenic Risk (Multi-gene)
+624,Elevated Genetic Risk
+625,Elevated Genetic Risk
+626,Elevated Genetic Risk
+627,Elevated Genetic Risk
+628,Elevated Genetic Risk
+629,Elevated Genetic Risk
+630,High Oncogenic Risk (Multi-gene)
+631,Elevated Genetic Risk
+632,Elevated Genetic Risk
+633,Elevated Genetic Risk
+634,Elevated Genetic Risk
+635,High Oncogenic Risk (Multi-gene)
+636,High Oncogenic Risk (Multi-gene)
+637,Elevated Genetic Risk
+638,Elevated Genetic Risk
+639,Elevated Genetic Risk
+640,Elevated Genetic Risk
+641,High Oncogenic Risk (Multi-gene)
+642,Elevated Genetic Risk
+643,High Oncogenic Risk (Multi-gene)
+644,Elevated Genetic Risk
+645,Elevated Genetic Risk
+646,Elevated Genetic Risk
+647,Elevated Genetic Risk
+648,Elevated Genetic Risk
+649,Elevated Genetic Risk
+650,High Oncogenic Risk (Multi-gene)
+651,Elevated Genetic Risk
+652,Elevated Genetic Risk
+653,Elevated Genetic Risk
+654,Elevated Genetic Risk
+655,Elevated Genetic Risk
+656,High Oncogenic Risk (Multi-gene)
+657,High Oncogenic Risk (Multi-gene)
+658,Elevated Genetic Risk
+659,Elevated Genetic Risk
+660,Elevated Genetic Risk
+661,Elevated Genetic Risk
+662,Elevated Genetic Risk
+663,Elevated Genetic Risk
+664,Elevated Genetic Risk
+665,Elevated Genetic Risk
+666,Elevated Genetic Risk
+667,Elevated Genetic Risk
+668,Elevated Genetic Risk
+669,High Oncogenic Risk (Multi-gene)
+670,High Oncogenic Risk (Multi-gene)
+671,Elevated Genetic Risk
+672,High Oncogenic Risk (Multi-gene)
+673,Elevated Genetic Risk
+674,High Oncogenic Risk (Multi-gene)
+675,Elevated Genetic Risk
+676,High Oncogenic Risk (Multi-gene)
+677,Elevated Genetic Risk
+678,Elevated Genetic Risk
+679,High Oncogenic Risk (Multi-gene)
+680,Elevated Genetic Risk
+681,Elevated Genetic Risk
+682,High Oncogenic Risk (Multi-gene)
+683,Elevated Genetic Risk
+684,Elevated Genetic Risk
+685,Elevated Genetic Risk
+686,High Oncogenic Risk (Multi-gene)
+687,Elevated Genetic Risk
+688,High Oncogenic Risk (Multi-gene)
+689,Elevated Genetic Risk
+690,High Oncogenic Risk (Multi-gene)
+691,Elevated Genetic Risk
+692,Elevated Genetic Risk
+693,Elevated Genetic Risk
+694,Elevated Genetic Risk
+695,High Oncogenic Risk (Multi-gene)
+696,Elevated Genetic Risk
+697,Elevated Genetic Risk
+698,Elevated Genetic Risk
+699,Elevated Genetic Risk
+700,Elevated Genetic Risk
+701,Elevated Genetic Risk
+702,Elevated Genetic Risk
+703,Elevated Genetic Risk
+704,High Oncogenic Risk (Multi-gene)
+705,Elevated Genetic Risk
+706,Elevated Genetic Risk
+707,High Oncogenic Risk (Multi-gene)
+708,High Oncogenic Risk (Multi-gene)
+709,High Oncogenic Risk (Multi-gene)
+710,High Oncogenic Risk (Multi-gene)
+711,High Oncogenic Risk (Multi-gene)
+712,High Oncogenic Risk (Multi-gene)
+713,High Oncogenic Risk (Multi-gene)
+714,High Oncogenic Risk (Multi-gene)
+715,Elevated Genetic Risk
+716,Elevated Genetic Risk
+717,Elevated Genetic Risk
+718,High Oncogenic Risk (Multi-gene)
+719,Elevated Genetic Risk
+720,Elevated Genetic Risk
+721,High Oncogenic Risk (Multi-gene)
+722,Elevated Genetic Risk
+723,Elevated Genetic Risk
+724,Elevated Genetic Risk
+725,Elevated Genetic Risk
+726,High Oncogenic Risk (Multi-gene)
+727,Elevated Genetic Risk
+728,Elevated Genetic Risk
+729,Elevated Genetic Risk
+730,Elevated Genetic Risk
+731,Elevated Genetic Risk
+732,Elevated Genetic Risk
+733,Elevated Genetic Risk
+734,Elevated Genetic Risk
+735,Elevated Genetic Risk
+736,Elevated Genetic Risk
+737,Elevated Genetic Risk
+738,Elevated Genetic Risk
+739,High Oncogenic Risk (Multi-gene)
+740,Elevated Genetic Risk
+741,Elevated Genetic Risk
+742,Elevated Genetic Risk
+743,High Oncogenic Risk (Multi-gene)
+744,High Oncogenic Risk (Multi-gene)
+745,High Oncogenic Risk (Multi-gene)
+746,High Oncogenic Risk (Multi-gene)
+747,Elevated Genetic Risk
+748,High Oncogenic Risk (Multi-gene)
+749,High Oncogenic Risk (Multi-gene)
+750,High Oncogenic Risk (Multi-gene)
+751,High Oncogenic Risk (Multi-gene)
+752,High Oncogenic Risk (Multi-gene)
+753,Elevated Genetic Risk
+754,Elevated Genetic Risk
+755,Elevated Genetic Risk
+756,Elevated Genetic Risk
+757,Elevated Genetic Risk
+758,Elevated Genetic Risk
+759,High Oncogenic Risk (Multi-gene)
+760,Elevated Genetic Risk
+761,Elevated Genetic Risk
+762,Elevated Genetic Risk
+763,Elevated Genetic Risk
+764,High Oncogenic Risk (Multi-gene)
+765,Elevated Genetic Risk
+766,Elevated Genetic Risk
+767,Elevated Genetic Risk
+768,Elevated Genetic Risk
+769,High Oncogenic Risk (Multi-gene)
+770,High Oncogenic Risk (Multi-gene)
+771,Elevated Genetic Risk
+772,Elevated Genetic Risk
+773,Elevated Genetic Risk
+774,Elevated Genetic Risk
+775,Elevated Genetic Risk
+776,Elevated Genetic Risk
+777,High Oncogenic Risk (Multi-gene)
+778,Elevated Genetic Risk
+779,Elevated Genetic Risk
+780,High Oncogenic Risk (Multi-gene)
+781,Elevated Genetic Risk
+782,Elevated Genetic Risk
+783,High Oncogenic Risk (Multi-gene)
+784,High Oncogenic Risk (Multi-gene)
+785,Elevated Genetic Risk
+786,Elevated Genetic Risk
+787,Elevated Genetic Risk
+788,High Oncogenic Risk (Multi-gene)
+789,Elevated Genetic Risk
+790,Elevated Genetic Risk
+791,Elevated Genetic Risk
+792,Elevated Genetic Risk
+793,High Oncogenic Risk (Multi-gene)
+794,Elevated Genetic Risk
+795,Elevated Genetic Risk
+796,Elevated Genetic Risk
+797,Elevated Genetic Risk
+798,Elevated Genetic Risk
+799,High Oncogenic Risk (Multi-gene)
+800,High Oncogenic Risk (Multi-gene)
+801,Elevated Genetic Risk
+802,Elevated Genetic Risk
+803,Elevated Genetic Risk
+804,Elevated Genetic Risk
+805,Elevated Genetic Risk
+806,Elevated Genetic Risk
+807,Elevated Genetic Risk
+808,High Oncogenic Risk (Multi-gene)
+809,Elevated Genetic Risk
+810,High Oncogenic Risk (Multi-gene)
+811,High Oncogenic Risk (Multi-gene)
+812,High Oncogenic Risk (Multi-gene)
+813,Elevated Genetic Risk
+814,Elevated Genetic Risk
+815,Elevated Genetic Risk
+816,Elevated Genetic Risk
+817,Elevated Genetic Risk
+818,High Oncogenic Risk (Multi-gene)
+819,High Oncogenic Risk (Multi-gene)
+820,High Oncogenic Risk (Multi-gene)
+821,Elevated Genetic Risk
+822,High Oncogenic Risk (Multi-gene)
+823,High Oncogenic Risk (Multi-gene)
+824,Elevated Genetic Risk
+825,High Oncogenic Risk (Multi-gene)
+826,Elevated Genetic Risk
+827,Elevated Genetic Risk
+828,Elevated Genetic Risk
+829,Elevated Genetic Risk
+830,High Oncogenic Risk (Multi-gene)
+831,High Oncogenic Risk (Multi-gene)
+832,Elevated Genetic Risk
+833,Elevated Genetic Risk
+834,High Oncogenic Risk (Multi-gene)
+835,Elevated Genetic Risk
+836,High Oncogenic Risk (Multi-gene)
+837,High Oncogenic Risk (Multi-gene)
+838,Elevated Genetic Risk
+839,Elevated Genetic Risk
+840,Elevated Genetic Risk
+841,Elevated Genetic Risk
+842,Elevated Genetic Risk
+843,High Oncogenic Risk (Multi-gene)
+844,Elevated Genetic Risk
+845,Elevated Genetic Risk
+846,Elevated Genetic Risk
+847,Elevated Genetic Risk
+848,Elevated Genetic Risk
+849,High Oncogenic Risk (Multi-gene)
+850,Elevated Genetic Risk
+851,Elevated Genetic Risk
+852,High Oncogenic Risk (Multi-gene)
+853,High Oncogenic Risk (Multi-gene)
+854,Elevated Genetic Risk
+855,Elevated Genetic Risk
+856,High Oncogenic Risk (Multi-gene)
+857,Elevated Genetic Risk
+858,Elevated Genetic Risk
+859,Elevated Genetic Risk
+860,Elevated Genetic Risk
+861,Elevated Genetic Risk
+862,Elevated Genetic Risk
+863,Elevated Genetic Risk
+864,High Oncogenic Risk (Multi-gene)
+865,High Oncogenic Risk (Multi-gene)
+866,High Oncogenic Risk (Multi-gene)
+867,Elevated Genetic Risk
+868,High Oncogenic Risk (Multi-gene)
+869,Elevated Genetic Risk
+870,Elevated Genetic Risk
+871,Elevated Genetic Risk
+872,High Oncogenic Risk (Multi-gene)
+873,Elevated Genetic Risk
+874,High Oncogenic Risk (Multi-gene)
+875,Elevated Genetic Risk
+876,Elevated Genetic Risk
+877,High Oncogenic Risk (Multi-gene)
+878,Elevated Genetic Risk
+879,Elevated Genetic Risk
+880,Elevated Genetic Risk
+881,Elevated Genetic Risk
+882,High Oncogenic Risk (Multi-gene)
+883,Elevated Genetic Risk
+884,High Oncogenic Risk (Multi-gene)
+885,High Oncogenic Risk (Multi-gene)
+886,Elevated Genetic Risk
+887,Elevated Genetic Risk
+888,High Oncogenic Risk (Multi-gene)
+889,High Oncogenic Risk (Multi-gene)
+890,Elevated Genetic Risk
+891,Elevated Genetic Risk
+892,Elevated Genetic Risk
+893,High Oncogenic Risk (Multi-gene)
+894,Elevated Genetic Risk
+895,High Oncogenic Risk (Multi-gene)
+896,Elevated Genetic Risk
+897,Elevated Genetic Risk
+898,Elevated Genetic Risk
+899,High Oncogenic Risk (Multi-gene)
+900,Elevated Genetic Risk
+901,Elevated Genetic Risk
+902,Elevated Genetic Risk
+903,High Oncogenic Risk (Multi-gene)
+904,Elevated Genetic Risk
+905,High Oncogenic Risk (Multi-gene)
+906,High Oncogenic Risk (Multi-gene)
+907,Elevated Genetic Risk
+908,Elevated Genetic Risk
+909,Elevated Genetic Risk
+910,Elevated Genetic Risk
+911,Elevated Genetic Risk
+912,High Oncogenic Risk (Multi-gene)
+913,Elevated Genetic Risk
+914,Elevated Genetic Risk
+915,Elevated Genetic Risk
+916,High Oncogenic Risk (Multi-gene)
+917,Elevated Genetic Risk
+918,Elevated Genetic Risk
+919,High Oncogenic Risk (Multi-gene)
+920,Elevated Genetic Risk
+921,Elevated Genetic Risk
+922,Elevated Genetic Risk
+923,Elevated Genetic Risk
+924,Elevated Genetic Risk
+925,Elevated Genetic Risk
+926,Elevated Genetic Risk
+927,Elevated Genetic Risk
+928,High Oncogenic Risk (Multi-gene)
+929,Elevated Genetic Risk
+930,Elevated Genetic Risk
+931,Elevated Genetic Risk
+932,Elevated Genetic Risk
+933,High Oncogenic Risk (Multi-gene)
+934,High Oncogenic Risk (Multi-gene)
+935,Elevated Genetic Risk
+936,High Oncogenic Risk (Multi-gene)
+937,Elevated Genetic Risk
+938,Elevated Genetic Risk
+939,Elevated Genetic Risk
+940,Elevated Genetic Risk
